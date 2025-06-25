@@ -1,0 +1,320 @@
+[
+  {
+    "id": 1,
+    "name": "Egyptian Koshari",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/7/74/Koshari_2.jpg",
+    "ingredients": [
+      "1 cup brown lentils",
+      "1 cup rice",
+      "1 cup macaroni",
+      "2 large onions",
+      "1 cup tomato sauce",
+      "1/2 cup boiled chickpeas",
+      "Salt, cumin, oil"
+    ],
+    "instructions": "Boil lentils, rice, and pasta separately. Fry onions until crispy. Layer and top with sauce and chickpeas.",
+    "time_minutes": 60,
+    "difficulty": "medium"
+  },
+  {
+    "id": 2,
+    "name": "Spaghetti Bolognese",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/a/ac/Spaghetti_bolognese.jpg",
+    "ingredients": [
+      "200g spaghetti",
+      "100g minced beef",
+      "1 onion",
+      "2 garlic cloves",
+      "400g canned tomatoes",
+      "Salt, pepper"
+    ],
+    "instructions": "Boil spaghetti. Cook beef with onion and garlic. Add tomatoes and simmer. Serve over pasta.",
+    "time_minutes": 30,
+    "difficulty": "easy"
+  },
+  {
+    "id": 3,
+    "name": "Chicken Shawarma",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/0/06/Shawarma_by_Palestinian_in_Nablus.jpg",
+    "ingredients": [
+      "500g chicken breast",
+      "2 garlic cloves",
+      "1 lemon juice",
+      "Yogurt",
+      "Shawarma spices, salt, pepper, oil"
+    ],
+    "instructions": "Marinate chicken in spices. Grill and slice. Serve in pita bread.",
+    "time_minutes": 40,
+    "difficulty": "easy"
+  },
+  {
+    "id": 4,
+    "name": "Classic Pancakes",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/2/2c/A_stack_of_pancakes.jpg",
+    "ingredients": [
+      "1 cup flour",
+      "1 egg",
+      "1 cup milk",
+      "1 tbsp sugar",
+      "1 tsp baking powder",
+      "Butter"
+    ],
+    "instructions": "Mix ingredients. Heat pan and cook until golden brown on each side.",
+    "time_minutes": 20,
+    "difficulty": "easy"
+  },
+  {
+    "id": 5,
+    "name": "Fattoush Salad",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/3/3c/Fattoush_Salad.jpg",
+    "ingredients": [
+      "Lettuce",
+      "Tomatoes",
+      "Cucumber",
+      "Green onion",
+      "Toasted pita bread",
+      "Sumac, lemon juice, olive oil"
+    ],
+    "instructions": "Chop vegetables. Mix with dressing. Top with crispy pita.",
+    "time_minutes": 15,
+    "difficulty": "easy"
+  },
+  {
+    "id": 6,
+    "name": "Sushi Rolls",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/6/60/Sushi_platter.jpg",
+    "ingredients": [
+      "2 cups sushi rice",
+      "Nori sheets",
+      "Fresh salmon",
+      "Cucumber, avocado",
+      "Soy sauce, wasabi"
+    ],
+    "instructions": "Prepare rice. Place nori, spread rice, add fillings, roll and slice.",
+    "time_minutes": 45,
+    "difficulty": "hard"
+  },
+  {
+    "id": 7,
+    "name": "Chocolate Cake",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/0/04/Chocolate_cake_with_chocolate_frosting.jpg",
+    "ingredients": [
+      "2 cups flour",
+      "1 cup sugar",
+      "3 eggs",
+      "1 cup milk",
+      "1/2 cup oil",
+      "1 cup cocoa powder",
+      "1 tbsp baking powder"
+    ],
+    "instructions": "Mix ingredients. Pour into pan. Bake at 180°C for 35–40 minutes.",
+    "time_minutes": 40,
+    "difficulty": "medium"
+  },
+  {
+    "id": 8,
+    "name": "Vegetable Soup",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/b/bf/Vegetable_Soup.jpg",
+    "ingredients": [
+      "Carrots",
+      "Potatoes",
+      "Onions",
+      "Celery",
+      "Vegetable broth",
+      "Salt, pepper"
+    ],
+    "instructions": "Chop and boil vegetables in broth. Simmer until soft.",
+    "time_minutes": 35,
+    "difficulty": "easy"
+  },
+  {
+    "id": 9,
+    "name": "Hummus",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/4/45/Houmous_with_paprika_and_olive_oil.jpg",
+    "ingredients": [
+      "1 can chickpeas",
+      "2 tbsp tahini",
+      "1 garlic clove",
+      "Lemon juice",
+      "Olive oil, salt"
+    ],
+    "instructions": "Blend all ingredients until smooth. Drizzle with olive oil.",
+    "time_minutes": 10,
+    "difficulty": "easy"
+  },
+  {
+    "id": 10,
+    "name": "Falafel",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/c/c4/Falafel_with_Hummus.jpg",
+    "ingredients": [
+      "2 cups chickpeas",
+      "Onion",
+      "Garlic",
+      "Parsley",
+      "Coriander",
+      "Cumin, salt, baking soda"
+    ],
+    "instructions": "Blend ingredients. Form balls. Fry until golden.",
+    "time_minutes": 45,
+    "difficulty": "medium"
+  },
+  {
+    "id": 11,
+    "name": "Egyptian Koshari (Variation 1)",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/7/74/Koshari_2.jpg",
+    "ingredients": [
+      "1 cup brown lentils",
+      "1 cup rice",
+      "1 cup macaroni",
+      "2 large onions",
+      "1 cup tomato sauce",
+      "1/2 cup boiled chickpeas",
+      "Salt, cumin, oil"
+    ],
+    "instructions": "Boil lentils, rice, and pasta separately. Fry onions until crispy. Layer and top with sauce and chickpeas.",
+    "time_minutes": 60,
+    "difficulty": "medium"
+  },
+  {
+    "id": 12,
+    "name": "Spaghetti Bolognese (Variation 2)",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/a/ac/Spaghetti_bolognese.jpg",
+    "ingredients": [
+      "200g spaghetti",
+      "100g minced beef",
+      "1 onion",
+      "2 garlic cloves",
+      "400g canned tomatoes",
+      "Salt, pepper"
+    ],
+    "instructions": "Boil spaghetti. Cook beef with onion and garlic. Add tomatoes and simmer. Serve over pasta.",
+    "time_minutes": 30,
+    "difficulty": "easy"
+  },
+  {
+    "id": 13,
+    "name": "Chicken Shawarma (Variation 3)",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/0/06/Shawarma_by_Palestinian_in_Nablus.jpg",
+    "ingredients": [
+      "500g chicken breast",
+      "2 garlic cloves",
+      "1 lemon juice",
+      "Yogurt",
+      "Shawarma spices, salt, pepper, oil"
+    ],
+    "instructions": "Marinate chicken in spices. Grill and slice. Serve in pita bread.",
+    "time_minutes": 40,
+    "difficulty": "easy"
+  },
+  {
+    "id": 14,
+    "name": "Classic Pancakes (Variation 4)",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/2/2c/A_stack_of_pancakes.jpg",
+    "ingredients": [
+      "1 cup flour",
+      "1 egg",
+      "1 cup milk",
+      "1 tbsp sugar",
+      "1 tsp baking powder",
+      "Butter"
+    ],
+    "instructions": "Mix ingredients. Heat pan and cook until golden brown on each side.",
+    "time_minutes": 20,
+    "difficulty": "easy"
+  },
+  {
+    "id": 15,
+    "name": "Fattoush Salad (Variation 5)",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/3/3c/Fattoush_Salad.jpg",
+    "ingredients": [
+      "Lettuce",
+      "Tomatoes",
+      "Cucumber",
+      "Green onion",
+      "Toasted pita bread",
+      "Sumac, lemon juice, olive oil"
+    ],
+    "instructions": "Chop vegetables. Mix with dressing. Top with crispy pita.",
+    "time_minutes": 15,
+    "difficulty": "easy"
+  },
+  {
+    "id": 16,
+    "name": "Sushi Rolls (Variation 6)",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/6/60/Sushi_platter.jpg",
+    "ingredients": [
+      "2 cups sushi rice",
+      "Nori sheets",
+      "Fresh salmon",
+      "Cucumber, avocado",
+      "Soy sauce, wasabi"
+    ],
+    "instructions": "Prepare rice. Place nori, spread rice, add fillings, roll and slice.",
+    "time_minutes": 45,
+    "difficulty": "hard"
+  },
+  {
+    "id": 17,
+    "name": "Chocolate Cake (Variation 7)",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/0/04/Chocolate_cake_with_chocolate_frosting.jpg",
+    "ingredients": [
+      "2 cups flour",
+      "1 cup sugar",
+      "3 eggs",
+      "1 cup milk",
+      "1/2 cup oil",
+      "1 cup cocoa powder",
+      "1 tbsp baking powder"
+    ],
+    "instructions": "Mix ingredients. Pour into pan. Bake at 180°C for 35–40 minutes.",
+    "time_minutes": 40,
+    "difficulty": "medium"
+  },
+  {
+    "id": 18,
+    "name": "Vegetable Soup (Variation 8)",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/b/bf/Vegetable_Soup.jpg",
+    "ingredients": [
+      "Carrots",
+      "Potatoes",
+      "Onions",
+      "Celery",
+      "Vegetable broth",
+      "Salt, pepper"
+    ],
+    "instructions": "Chop and boil vegetables in broth. Simmer until soft.",
+    "time_minutes": 35,
+    "difficulty": "easy"
+  },
+  {
+    "id": 19,
+    "name": "Hummus (Variation 9)",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/4/45/Houmous_with_paprika_and_olive_oil.jpg",
+    "ingredients": [
+      "1 can chickpeas",
+      "2 tbsp tahini",
+      "1 garlic clove",
+      "Lemon juice",
+      "Olive oil, salt"
+    ],
+    "instructions": "Blend all ingredients until smooth. Drizzle with olive oil.",
+    "time_minutes": 10,
+    "difficulty": "easy"
+  },
+  {
+    "id": 20,
+    "name": "Falafel (Variation 10)",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/c/c4/Falafel_with_Hummus.jpg",
+    "ingredients": [
+      "2 cups chickpeas",
+      "Onion",
+      "Garlic",
+      "Parsley",
+      "Coriander",
+      "Cumin, salt, baking soda"
+    ],
+    "instructions": "Blend ingredients. Form balls. Fry until golden.",
+    "time_minutes": 45,
+    "difficulty": "medium"
+  }
+]
