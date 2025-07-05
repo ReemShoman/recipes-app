@@ -1,15 +1,12 @@
-import { useState } from 'react'
-import RecipesList from './components/RecipesList'
-
+import { BrowserRouter } from "react-router-dom";
+import RoutesList from "./Routes/RoutesList";
 
 function App() {
-  const [count, setCount] = useState(0)
-
   return (
-    <>
-   <RecipesList/>
-    </>
-  )
+    <BrowserRouter>
+      <RoutesList />
+    </BrowserRouter>
+  );
 }
 
-export default App
+export default App;
